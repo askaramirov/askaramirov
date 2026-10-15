@@ -7,24 +7,3 @@
 ---
 
 <img src="https://render.gitanimals.org/farms/askaramirov" />
-
----
-
-🌟
-
-### fefef
-
-- The sun ignited with twilight's glow,
-- Serenity fills the space below.
-- The world reveals its lucid face,
-- Yet its truths, you can't embrace.
-
-- Comets caress the evening sky,
-- Again, you laugh, not knowing why.
-- The world unfolds without a seam,
-- But its essence remains your dream.
-
-
-```
-c3NoLWVkMjU1MTkgQUFBQUMzTnphQzFsWkRJMU5URTVBQUFBSUxwTHV1aEdRYjl6VUdENm9UdnJoM0lpeDVad01KRkpzWGdINVR5ZFFEcHYK
-```
